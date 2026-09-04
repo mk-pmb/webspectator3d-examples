@@ -1,0 +1,35 @@
+{ "name": "webspectator3d-examples",
+  "version": "0.0.0",
+  "description": "Some example files for 3D model/scene viewers.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/webspectator3d-examples/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/webspectator3d-examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/webspectator3d-examples/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "MIT",
+
+  "main": "package.json",
+  "directories": { "test": "test" },
+  "eslintConfig": { "extends": "nodejs-pmb",
+    "env": { "browser": true }
+  },
+
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint-config-nodejs-pmb": "^0.3.14",
+    "eslint-plugin-json-light-pmb": "^1.0.7",
+    "eslint-plugin-n": "^17.16.2"
+  },
+
+
+  "engines": { "npm": ">=7.0.0", "node": ">=24.0.0" }
+}
