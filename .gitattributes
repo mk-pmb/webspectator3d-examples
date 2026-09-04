@@ -1,0 +1,9 @@
+
+*.blend -text
+*.dae -text
+*.gif -text
+*.glb -text
+*.gz -text
+*.jpeg -text
+*.png -text
+*.zip -text
