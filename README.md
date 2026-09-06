@@ -9,6 +9,11 @@ Some example files for 3D model/scene viewers.
 <!--/#echo -->
 
 
+<!-- BEGIN files list -->
+* [`scenes/simple01.dae.gz`](scenes/simple01.dae.gz) &middot; [view](../webspectator3d-collada/view.html?sceneFile=../webspectator3d-examples/scenes/simple01.dae.gz)
+<!-- ENDOF files list -->
+
+
 
 <!--#toc stop="scan" -->
 
